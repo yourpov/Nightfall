@@ -14,7 +14,7 @@ However, Astral didn’t gain the same traction, so I brought back Nightfall as 
 ---
 
 ## 👥 Credits / Collaborators
-- **Scripts:** [@uhhwhatever (Ecstasy) / Nix](https://discord.com/users/1055337846657007648) — Solo Developer from **v1.0 to v1.7**.  
+- **Scripts:** [@uhhwhatever (Ecstasy) / Nix](https://discord.com/users/1055337846657007648) — Solo Developer from **v1.0 to current**.  
 - **UI Library & Assistance:** [@silentben8x](https://discord.com/users/865599038954668042) — Joined to help on **v2.0 to v2.10.5** with UI improvements and added features.  
 - **Beta Testers:** N/A
 
